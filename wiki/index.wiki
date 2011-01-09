@@ -3,7 +3,7 @@
 2010-12-01
 ----
 ==linux学习笔记==
-	* [linux/command linux命令索引]
+	* [http://xuwenzhang.org linux命令索引]
 	* [linux/shell shell编程]
 ==vim使用学习==
 	* [[vim/vimrc|我的vimrc]]
