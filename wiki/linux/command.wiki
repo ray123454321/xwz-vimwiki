@@ -1,0 +1,13 @@
+%title linux命令索引
+=linux命令索引=
+====[[../index|主页]]====
+----
+==我的linux命令集==
+	[[command/aclocal|aclocal]]:: GNU [[command/automake|automake]]的一部分.用来放置m4宏定义至单一文件中.
+	[[command/automake|automake]]:: GNU automake工具,用来产生与GNU标准兼容的Makefile.in工具
+	[[command/gprof|gprof]]:: 测试c/c++程序各阶段的运行时间,用于代码优化
+	[[command/iptux|iptux]]:: linux的飞鸽,可以和windows下飞鸽通信
+	[[command/troff|troff]]:: 
+
+
+© Copyright 2010 [http://xuwenzhang.org xwz](carl.xwz@gmail.com) All Rights Reserved.

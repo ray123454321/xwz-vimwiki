@@ -1,0 +1,8 @@
+%title aclocal
+=aclocal=
+====[[../../index|主页]]====
+----
+
+详见GNU [[automake]]
+
+© Copyright 2010 [http://xuwenzhang.org xwz](carl.xwz@gmail.com) All Rights Reserved.

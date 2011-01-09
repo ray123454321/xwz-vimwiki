@@ -1,0 +1,45 @@
+%title 标量数据
+=标量数据=
+====[[../index.html|主页]]====
+==数字表示==
+    -12e30<br />
+    -12E30<br />
+    0377 0xff 0b11111111 #八进制,十六进制,二进制的255<br />
+    5_234_342_345_654 #长整数表示法<br />
+    0xaf03_2345 0xa_ff_90 #十六进制长整数表示法<br />
+    + - * / % 加减乘除和取模<br />
+    2**3 #2的3次方<br />
+==字符串==
+    '\n' => \n<br />
+    "\n" => 换行<br />
+    '\'' => '<br />
+    " "内可以有\t转义字符,结尾无须\0表示字符串结束<br />
+    \e Esc(ASCII编码的转移字符)<br />
+    \cC 控制符,Ctrl键+C<br />
+    \l 将下个字符转为小写<br />
+    \L 将到\E的字符转为小写<br />
+    \u 将下个字符转为大写<br />
+    \U 将到\E的字符转为大写<br />
+    \Q 将到\E的非单词字符,加上\<br />
+    \E 结束\L,\U或\Q<br />
+    "hello"."world" 等同于"helloworld"<br />
+    'hello world'."\n" 等同于"hello world\n"<br />
+    "fred"x3 字母x+3得到"fredfredfred"<br />
+    5x4 得到"5555"<br />
+    "12"*"3" 得到36<br />
+    "12abc33"*"3" 也得到36<br />
+    "z".5*7 得到"z35"<br />
+==标量变量==
+    标量变量以$开头,大小写区分,不能以数字开头<br />
+    *等号赋值如:*<br />
+    $fred = 17;<br />
+	$barney = 'hello';<br />
+	$barney = $fred * 2; #barney的值从'hello'又变为34<br />
+	$fred+= 3; #fred变为20<br />
+	$barney = $barney . " " #结尾追加字符串<br />
+	$barney .= " " #效果同上<br />
+	$fred **= 3; #fred的3次方<br />
+
+	
+© Copyright 2010 [http://xuwenzhang.org xwz](carl.xwz@gmail.com) All Rights Reserved.
+

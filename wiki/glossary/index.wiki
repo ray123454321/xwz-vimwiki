@@ -1,0 +1,40 @@
+%title 缩写词表
+=缩写词表=
+====[[../index|主页]]====
+----
+
+== A ==
+API:: Application Programming Interface(应用编程接口).同可链接程序库或操作系统内核通信的过程掉用集.
+== B ==
+BSD:: Berkeley System Distribution;也作Berkeley Software Distribution:名字具体来源不可考.在1976到1994年中间,由加利福尼亚大学伯克利分校计算机科学研究组发布的Unix版本统称为此,许多开源Unix都从此继承而来.
+== C ==
+CLI:: Command Line Interface(命令行界面),有些人认为太陈旧了,但在Unix世界仍然很有用.
+CPAN:: Comprehensive Perl Archive Network.[http://cpan.org Perl模块和扩展网络中心库].
+== G ==
+GNU:: GNU's Not Unix(GNU不是Unix)!自由软件基金项目,愿意是开发一个Unix的克隆版本,但完全自由的软件;GNU是其递归的缩写名.这个项目并没有取得完全成功,但是产生了许多现代Unix开发的基本工具,包括Emacs和GNU编译器集(GNU Compiler Collection,GCC).
+GUI:: Graphical User Interface(图形用户界面).应用程序界面的现代风格,与老式CLI或roguelike风格不同,使用鼠标,窗口及图标,由Xerox PARC中心在1970年代创造.
+== I ==
+IDE:: Intergrated Development Environment(集成开发环境).代码开发的GUI工作台,功能包括符号调试器,版本控制以及数据结构浏览.在Unix下通常并不使用.
+IETF:: Internet Engineerning Task Force(互联网工程任务组).负责定义诸如TCP/IP之类的互联网协议的实体.一个松散平等的组织,主要由技术人员构成.
+IPC:: Inter-Process Communication(进程间通信).独立地址空间运行进程的数据传输方法.
+== M ==
+MIME:: Multipurpose Internet Mail Extensions(多用途互联网邮件扩展).一系列的RFC,描述了在RFC-822邮件中内嵌二进制和multipart信息的标准.除了使用在邮件传输之外,MIME也被一些重要的应用协议(如HTTP和BEEP)作为基础使用.
+== O ==
+OO:: Object Oriented(面向对象).一种编程风格,将处理的数据和处理数据的代码封装在一种称为对象的闭合容器内.相比之下,非面向对象编程更容易暴露内部的数据结构和代码.
+OS:: Operating System(操作系统).机器的基础软件:完成任务调度,分配存储空间以及在应用程序之间提供默认的用户界面.操作系统提供的功能及其一般性的设计哲学,强烈影响着围绕其宿主机而成长起来的编程风格和技术文化
+== P ==
+PDF:: Portable Document Format(可移植文档格式).控制打印机和其它成像设备的PostScript语言,设计来将数据流输出给打印机.而PDF是一系列的PostScript页,并包入标记描述,可以方便作为显示格式使用.
+PDP-11:: Programmable Data Processor 11(可编程数据处理器11).可能是历史上最成功的单一大型机设计:于1970年首次发布,1990你年结束发布,并且是VAX的直接祖先.PDP-11是第一款主要的Unix平台.
+PNG:: Portable Network Graphical(可移植网络图形).万维网联盟(The World Wide Web Consortium)的位图图形图像标准和推荐格式.这是二进制图像格式的一个优雅设计.
+== R ==
+RFC:: Request For Comment(请求评注).一个互联网标准.当其文档作为提议被提交,处于某种目前虽不存在但期望的正是承认过程时,就称为RFC.而正式的承认从未实体化.
+RPC:: Remote Procedure Call(远程过程调用).使用IPC方法,试图创造一种错觉,进程间互相交换数据就像是在同一地址空间,这样可以方便地共享复杂的数据结构,和就像函数库互相调用一样,忽略时延和其它的性能考虑.想维持这种错觉异常困难.
+== T ==
+TCP/IP:: Transmission Control Protocol/Internet Protocol(传输控制协议/互联网协议).自1983年从NCP(网络控制协议)转变而来的互联网基本协议.提供可靠的数据流传输.
+== U ==
+UDP/IP:: Universal Datagram Protocal/Internet Protocal(通用数据报协议/互联网协议).提供小型数据包的不可靠低延迟传输.
+UI:: 用户接口(界面)
+== V ==
+VAX:: 正式名称Virtual Address Extension(虚拟地址扩展):由DEC(后来同Compaq合并,再后来又与HP合并)开发的经典大型机设计.VAX第一次发布是在1977年.1980年~1990年间,VAX是最重要的Unix平台之一.针对微处理器的再实现在并发中.
+
+© Copyright 2010 [http://xuwenzhang.org xwz](carl.xwz@gmail.com) All Rights Reserved.

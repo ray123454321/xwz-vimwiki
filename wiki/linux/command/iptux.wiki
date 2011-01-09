@@ -1,0 +1,8 @@
+%title iptux
+=iptux=
+====[[../../index|主页]]====
+----
+
+linux的飞鸽,可以和windows下飞鸽通信
+
+© Copyright 2010 [http://xuwenzhang.org xwz](carl.xwz@gmail.com) All Rights Reserved.
