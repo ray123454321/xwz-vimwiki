@@ -1,0 +1,20 @@
+%title 逆跑~~的wiki
+=逆跑~~的wiki=
+2010-12-01
+----
+==linux学习笔记==
+	* [[linux/command|linux命令索引]]
+	* [[linux/shell|shell编程]]
+==vim使用学习==
+	* [[vim/vimrc|我的vimrc]]
+	* [[vim/vimlist|我的vim插件列表]]
+==C/C++程序设计==
+	* [[c/lib|linux下C函数库学习]]
+	* [[c/c++|C++编程技巧]]
+==缩写词表==
+	* [[glossary/index|词表]]
+==perl学习笔记==
+	* [[perl/study|perl学习]]
+<br />
+
+© Copyright 2010 [http://xuwenzhang.org xwz](carl.xwz@gmail.com) All Rights Reserved.
